@@ -1,6 +1,9 @@
-## Your Name
+## Harry Dawson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Passionate skier/scrabble player/sudoku solver/soccer player/surfer/alliterator. In 2013, I became a ski instructor to see the world and have since lived in 4 countries and risen to a position as trainer and coach for other instructors and junior wintersports athletes. In the last 3 years, in search of mental stimulation between powder days, and a more sustainable career path, I helped start a digital marketing agency before I discovered Code Academy and everything changed.
+
+Getting paid to solve logic puzzles all day notwithstanding, a career in Tech presents an opportunity to create solutions to problems that effect real people and the world around us. News outlets and social media like to remind us on a daily basis that the future is bleak and we're all doomed, but within the world of Tech I see and hear nothing but optimism and positivity; which dictates my drive to be part of it, and makes it feel closer to being a ski instructor than one might think.
+
 
 ## Projects
 
@@ -11,15 +14,19 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Account Manager, &BAM; Remote, B.C / UK** – November 2020 - February 2022
+Account management appealed as it gave me the opportunity to manage a team, in addition to working directly with clients. My success in this role depends on the specific goals of each client, but highlights include doubling overall marketing revenue for 3 different brands; successfully rebranding a $1million/month male-targeted activewear company to appeal to the female market (female customers increased by 15% to date); and leading the company in revenue generated from upselling clients to bigger packages. 
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Another large part of my role has been developing my knowledge of the industry. In order to upsell clients, I have had to constantly teach myself how to use new apps and software so that I can understand which USPs will appeal to which clients. I have also taught myself basic graphic design and web development skills so that I can help out my own creative team when necessary; helping remove stress and allowing them freedom to produce their best work. This also enabled the team to take holidays, which had not happened in 3 years prior to my arrival at the company.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Account Director, RoylesMedia; Remote, B.C.** – September 2018 - May 2020
+As Account Director, I was responsible for all communication and creating every individual marketing campaign for 30+ clients, mostly small business owners, over the course of 18 months.
 
-- Any experience relevent to software development
+With no formal training, I taught myself to build successful Facebook advertising campaigns, from a combination of Youtube videos and online forums, earning clients up to $100k in sales within the first 30 days of launch.
+I worked to continually develop our product to maximize efficiency and stay on top of industry marketing trends. I was also responsible for learning then synchronizing a wide range of apps and online platforms in order to automate necessary processes, while taking care to maintain privacy and manage personal data securely. 
+
+**Ski Instructor, Worldwide** – November 2013 - March 2020
+Over the last 6 years, I have taught skiing in 4 different countries to over 40 different nationalities. I have taught successful lessons in French, Spanish, Japanese, Mandarin and German, despite not speaking any second language fluently. I had not skied before the age of 23 and by 26, had progressed to a level where I was teaching other instructors how to improve their own skiing. In my final 3 winters I was a coaching in an Athlete Development Program at Whistler Blackcomb, where I was preparing athletes for competitions in race, freestyle, freeride and moguls. 
 
 ## Skills
 
