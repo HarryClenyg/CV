@@ -1,4 +1,4 @@
-# Harry Dawson &nbsp; | &nbsp;&nbsp; <a href="https://www.linkedin.com/in/harry-dawson-406910170" title="LinkedIn"><img alt=":LinkedIN" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100"></a>
+# Harry Dawson &nbsp; | &nbsp;&nbsp; <a href="https://www.linkedin.com/in/harry-dawson-406910170" title="LinkedIn"><img alt=":LinkedIN" src="/Images/LI-Logo.png" width="100"></a>
 
 [Projects](https://github.com/harryclenyg/CV#Projects) | [Experience](https://github.com/harryclenyg/CV#Work-Experience) | [Education](https://github.com/harryclenyg/CV#Education) | [Skills](https://github.com/harryclenyg/CV#Skills) | [Hobbies and Interests](https://github.com/harryclenyg/CV#Hobbies-and-interests)
 <br>
