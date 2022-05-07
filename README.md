@@ -7,6 +7,12 @@ Passionate skier/scrabble player/sudoku solver/soccer player/surfer/alliterator.
 
 Getting paid to solve logic puzzles all day notwithstanding, a career in Tech presents an opportunity to create solutions to problems that effect real people and the world around us. News outlets and social media like to remind us on a daily basis that the future is bleak and we're all doomed, but within the world of Tech I see and hear nothing but optimism and positivity; which dictates my drive to be part of it, and makes it feel closer to being a ski instructor than one might think.
 
+<img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="HTML" src="images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="CSS" src="images/CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
+<img alt="REACT" src="images/React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
+<img alt="PSQL" src="images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
 
 ## Projects
 
