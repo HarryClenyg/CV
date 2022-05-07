@@ -1,4 +1,4 @@
-# Harry Dawson &nbsp; | &nbsp;&nbsp; <a href="https://www.linkedin.com/in/harry-dawson-406910170" title="LinkedIn"><img alt=":LinkedIN" src="/Images/LI-Logo.png" width="100"></a>
+# Harry Dawson &nbsp; | &nbsp;&nbsp; <a href="https://www.linkedin.com/in/harry-dawson-406910170" title="LinkedIn"><img alt=":LinkedIN" src="Images/LI-Logo.png" width="100"></a>
 
 [Projects](https://github.com/harryclenyg/CV#Projects) | [Experience](https://github.com/harryclenyg/CV#Work-Experience) | [Education](https://github.com/harryclenyg/CV#Education) | [Skills](https://github.com/harryclenyg/CV#Skills) | [Hobbies and Interests](https://github.com/harryclenyg/CV#Hobbies-and-interests)
 <br>
@@ -7,12 +7,12 @@ Passionate skier/scrabble player/sudoku solver/soccer player/surfer/alliterator.
 
 Getting paid to solve logic puzzles all day notwithstanding, a career in Tech presents an opportunity to create solutions to problems that effect real people and the world around us. News outlets and social media like to remind us on a daily basis that the future is bleak and we're all doomed, but within the world of Tech I see and hear nothing but optimism and positivity; which dictates my drive to be part of it, and makes it feel closer to being a ski instructor than one might think.
 
-<img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="HTML" src="images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="CSS" src="images/CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
-<img alt="REACT" src="images/React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
-<img alt="PSQL" src="images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="JS" src="Images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="RUBY" src="Images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="HTML" src="Images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="CSS" src="Images/CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
+<img alt="REACT" src="Images/React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
+<img alt="PSQL" src="Images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
 
 ## Projects
 
