@@ -10,9 +10,10 @@ Getting paid to solve logic puzzles all day notwithstanding, a career in Tech pr
 <img alt="JS" src="Images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="RUBY" src="Images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="HTML" src="Images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="CSS" src="Images/CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
-<img alt="REACT" src="Images/React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
-<img alt="PSQL" src="Images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="CSS" src="Images/CSS3.svg.png" width="58">
+<img alt="REACT" src="Images/React-icon.svg.png" width="120">
+<img alt="PSQL" src="Images/Postgresql_elephant.svg.png" width="80">
+<img alt="MongoDB" src="Images/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" width="80">
 
 ## Projects
 
