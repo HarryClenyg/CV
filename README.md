@@ -1,4 +1,4 @@
-## Harry Dawson
+# Harry Dawson &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/harry-dawson-406910170/" title="LinkedIn">Linked</a> <img alt=":LinkedIN" src="images/LinkedIn.svg.png" width="20">
 
 Passionate skier/scrabble player/sudoku solver/soccer player/surfer/alliterator. In 2013, I became a ski instructor to see the world and since lived in 4 countries and rose to a position as trainer and coach for other instructors and junior wintersports athletes. In the last 3 years, in search of mental stimulation between powder days, and a more sustainable career path, I helped start a digital marketing agency before I discovered Code Academy and everything changed.
 
