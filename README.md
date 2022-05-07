@@ -19,8 +19,8 @@ Getting paid to solve logic puzzles all day notwithstanding, a career in Tech pr
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Acebook](https://github.com/arhussain1/acebook-node-template) | A clone of Facebook | React, MongoDB, Express, Node, Jest |
+| [Bank](https://github.com/arhussain1/acebook-node-template) | A Node app operated from the REPL | JS, Node, Jest |
 
 ## Work Experience
 
