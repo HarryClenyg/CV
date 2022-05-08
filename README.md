@@ -5,7 +5,7 @@
 
 Passionate skier/scrabble player/sudoku solver/soccer player/surfer/alliterator. In 2013, I became a ski instructor to see the world and since lived in 4 countries and rose to a position as trainer and coach for other instructors and junior wintersports athletes. In the last 3 years, in search of mental stimulation and a more sustainable career path, I helped start a digital marketing agency before I discovered Code Academy and everything changed.
 
-Getting paid to solve logic puzzles all day notwithstanding, a career in Tech presents an opportunity to create solutions to problems that effect real people and the world around us. News outlets and social media like to remind us on a daily basis that the future is bleak and we're all doomed, but within the world of Tech I see and hear nothing but optimism and positivity; which dictates my drive to be part of it, and makes it feel closer to being a ski instructor than one might think.
+Getting paid to solve logic puzzles all day notwithstanding, a career in as a software developer presents an opportunity to create solutions to problems that effect real people and the world around us. News outlets and social media like to remind us on a daily basis that the future is bleak and we're all doomed, but within the world of Tech I see and hear nothing but optimism and positivity; which dictates my drive to be part of it, and makes it feel closer to being a ski instructor than one might think.
 
 <img alt="JS" src="Images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="RUBY" src="Images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
