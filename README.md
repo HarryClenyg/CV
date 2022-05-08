@@ -20,7 +20,8 @@ Getting paid to solve logic puzzles all day notwithstanding, a career in as a so
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Acebook](https://github.com/arhussain1/acebook-node-template) | A clone of Facebook | React, MongoDB, Express, Node, Jest |
-| [Bank](https://github.com/arhussain1/acebook-node-template) | A Node app operated from the REPL | JS, Node, Jest |
+| [Bank](https://github.com/arhussain1/acebook-node-template) | A Node app operated from the REPL | JS, Node, Jest, HTML, CSS |
+| [MakersBnB](https://github.com/HarryClenyg/MakersBnB) | A clone for AirBnB | Ruby, Rspec PostgresSQL, HTML, CSS |
 
 ## Work Experience
 
@@ -86,7 +87,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Civil Engineering
 - 2:2
-- Other cool stuff
 
 #### Any other qualifications
 
