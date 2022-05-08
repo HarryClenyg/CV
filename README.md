@@ -32,7 +32,7 @@ Another large part of my role has been developing my knowledge of the industry. 
 
 **Account Director, RoylesMedia; Remote, B.C.** (September 2018 - May 2020)
 
-As Account Director, I was responsible for all communication and creating every individual marketing campaign for 30+ clients, mostly small business owners, over the course of 18 months.
+As Account Director, I was responsible for all communication and creating every individual marketing campaign for 20+ clients, mostly small business owners, over the course of 18 months.
 
 With no formal training, I taught myself to build successful Facebook advertising campaigns, from a combination of Youtube videos and online forums, earning clients up to $100k in sales within the first 30 days of launch.
 I worked to continually develop our product to maximize efficiency and stay on top of industry marketing trends. I was also responsible for learning then synchronizing a wide range of apps and online platforms in order to automate necessary processes, while taking care to maintain privacy and manage personal data securely. 
