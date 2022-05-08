@@ -42,56 +42,47 @@ I worked to continually develop our product to maximize efficiency and stay on t
 
 Over the last 6 years, I have taught skiing in 4 different countries to over 40 different nationalities. I have taught successful lessons in French, Spanish, Japanese, Mandarin and German, despite not speaking any second language fluently. I had not skied before the age of 23 and by 26, had progressed to a level where I was teaching other instructors how to improve their own skiing. In my final 3 winters I was a coaching in an Athlete Development Program at Whistler Blackcomb, where I was preparing athletes for competitions in race, freestyle, freeride and moguls. 
 
+
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
--STAR
--What was the situation/task? (ST)
+### 💡 Soft skills
 
--How was the skill used?
+- Motivated to learn
+- Adaptable and team player
+- Curious about people and problems
 
--What did you do? (action)
+### 💻 Tech skills
 
--What was the result?
+- Ruby, Rspec, Sinatra, Capybara
+- JavaScript, Jest, Node.js, Express, React
+- HTML, CSS, Handlebars
+- SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose
+- Command Line, Git, GitHub
+- Travis CI
 
 
-#### This Skill
+#### Examples
 
-- Experience
-- Achievements
-- Evidence (STAR)
+* As an account manager for a marketing agency, I noticed my team was becoming stressed and overworked. I was able to analyse the workflow and identify areas in which it could be improved to the benefit of everyone in the company. So, I took ownership of our workflow and was able to reorganise tasks so that each person's workload became clear and manageable. As a result, we were able to produce the same amount of work, in significantly less time, which restored the work/life balance of the team, subsequently improving the quality of their work.
 
-#### Another Skill
+* As a ski instructor, I regularly had situations where people froze with fear and felt like they couldn't progress. Through communicating with them I was able to restore calm and understand exactly what aspect of the situation was creating the mental block. From this I was able to work out exactly what they needed to hear from me in order to make a breakthrough.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (24 Jan - May 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Full-Stack web development.
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Object oriented programming & software design & XP
 
 #### Newcastle University (Sep 2008 to Jul 2011)
 
 - Civil Engineering
 - 2:2
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+All sports! Skiing, biking, football, surfing, golf etc.
+
+I'm also a ruthless Catan player and a former competitive Scrabble player.
